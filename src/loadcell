@@ -1,0 +1,16 @@
+enum class loadcell{
+    scale1_dout = 1, scale1_sck = 2,
+    scale2_dout = 1, scale2_sck = 2,
+    scale3_dout = 1, scale3_sck = 2,
+    scale4_dout = 1, scale4_sck = 2,
+    scale5_dout = 1, scale5_sck = 2,
+    scale6_dout = 1, scale6_sck = 2,
+    scale7_dout = 1, scale7_sck = 2,
+    scale8_dout = 1, scale8_sck = 2,
+    scale9_dout = 1, scale9_sck = 2,
+    scale10_dout = 1, scale10_sck = 2,
+    scale11_dout = 1, scale11_sck = 2,
+    scale12_dout = 1, scale12_sck = 2
+
+
+};
